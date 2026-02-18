@@ -31,9 +31,6 @@ This project implements and compares **6 emotion recognition pipelines**:
 | **ML Speech-Only** | SVM | **100.00%** |
 | **ML Text-Only** | SVM | 4.73% |
 | **ML Fusion** | SVM | **100.00%** |
-| **DL CNN** | CNN-3 | [Your result]% |
-| **DL LSTM** | Bi-LSTM | [Your result]% |
-| **DL Fusion** | CNN+LSTM | [Your result]% |
 
 ##  Key Findings
 
